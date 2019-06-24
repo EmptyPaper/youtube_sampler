@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3635b1a-cc0f-4216-aa18-c63471b335f0" name="Default Changelist" comment="" />
+    <list default="true" id="a3635b1a-cc0f-4216-aa18-c63471b335f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/VIdeotoVocie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VIdeotoVocie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiser/.deps/rnnoise_demo.Po" beforeDir="false" afterPath="$PROJECT_DIR$/denoiser/.deps/rnnoise_demo.Po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiser/.libs/rnnoise_demo" beforeDir="false" afterPath="$PROJECT_DIR$/denoiser/.libs/rnnoise_demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiser/final.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiser/fucking.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiser/output.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiser/rnnoise_demo" beforeDir="false" afterPath="$PROJECT_DIR$/denoiser/rnnoise_demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiser/rnnoise_demo.c" beforeDir="false" afterPath="$PROJECT_DIR$/denoiser/rnnoise_demo.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/denoiser/rnnoise_demo.o" beforeDir="false" afterPath="$PROJECT_DIR$/denoiser/rnnoise_demo.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/getFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processer.py" beforeDir="false" afterPath="$PROJECT_DIR$/processer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voiceChop.py" beforeDir="false" afterPath="$PROJECT_DIR$/voiceChop.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,28 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pydoc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/inspect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/voiceChop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="228">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -40,20 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/librosa/effects.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7800">
-              <caret line="526" selection-start-line="526" selection-end-line="526" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/getFile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="264">
+              <caret line="104" column="38" lean-forward="true" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -62,9 +50,63 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/processer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/threading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="915" selection-start-line="915" selection-end-line="915" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/site-packages/pytube/contrib/playlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1905">
+              <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/site-packages/pytube/mixins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="40" column="74" selection-start-line="40" selection-start-column="74" selection-end-line="40" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/subprocess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1583" column="13" selection-start-line="1583" selection-start-column="13" selection-end-line="1583" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/Lib/site-packages/pytube/__main__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/pytube/streams.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3090">
+            <state relative-caret-position="544">
               <caret line="216" selection-start-line="216" selection-end-line="216" />
             </state>
           </provider>
@@ -73,35 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/librosa/core/audio.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5790">
+            <state relative-caret-position="544">
               <caret line="398" selection-start-line="398" selection-end-line="398" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/pydoc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/librosa/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/librosa/core/audio.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -119,26 +134,34 @@
     <findStrings>
       <find>us</find>
       <find>get_arg</find>
+      <find>trim</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/processer.py" />
         <option value="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pytube/mixins.py" />
         <option value="$PROJECT_DIR$/create_mixed_audio_file.py" />
         <option value="/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/random.py" />
         <option value="$PROJECT_DIR$/chroler.py" />
         <option value="$PROJECT_DIR$/token.py" />
+        <option value="$USER_HOME$/Anaconda3/envs/tensorflow/Lib/site-packages/pytube/mixins.py" />
+        <option value="$USER_HOME$/Anaconda3/envs/python3/Lib/site-packages/pytube/mixins.py" />
+        <option value="$PROJECT_DIR$/processer.py" />
         <option value="$PROJECT_DIR$/voiceChop.py" />
         <option value="$PROJECT_DIR$/getFile.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="73" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -147,30 +170,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="VIdeotoVocie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VIdeotoVocie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VIdeotoVocie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VIdeotoVocie" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VIdeotoVocie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="youtube_sampler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube_sampler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -181,6 +196,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moist\PycharmProjects\youtube_sampler" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -196,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.voiceChop">
+  <component name="RunManager" selected="Python.processer">
     <configuration name="getFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="VIdeotoVocie" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,6 +227,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="processer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="VIdeotoVocie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/processer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,8 +303,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.voiceChop" />
+        <item itemvalue="Python.processer" />
         <item itemvalue="Python.getFile" />
+        <item itemvalue="Python.voiceChop" />
         <item itemvalue="Python.token" />
       </list>
     </recent_temporary>
@@ -287,35 +326,37 @@
       <workItem from="1561292759264" duration="10578000" />
       <workItem from="1561305965308" duration="8391000" />
       <workItem from="1561317378314" duration="273000" />
+      <workItem from="1561319469922" duration="1322000" />
+      <workItem from="1561327358840" duration="6130000" />
+      <workItem from="1561364639069" duration="12200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27967000" />
+    <option name="totallyTimeSpent" value="47619000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-4" y="73" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3015873" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.09892473" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49627262" weight="0.32871288" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49627262" weight="0.3326338" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50319487" side_tool="true" weight="0.3148515" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32871288" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32843652" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.3221406" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.4968051" visible="true" weight="0.3148515" />
+      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.3319239" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4968051" weight="0.31374606" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="SciView" order="2" visible="true" weight="0.3778999" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.6356674" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout>
@@ -324,9 +365,11 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/VIdeotoVocie$token.coverage" NAME="token Coverage Results" MODIFIED="1561301011861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/VIdeotoVocie$getFile.coverage" NAME="getFile Coverage Results" MODIFIED="1561315375562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/youtube_sampler$getFile.coverage" NAME="getFile Coverage Results" MODIFIED="1561374131342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/youtube_sampler$processer.coverage" NAME="processer Coverage Results" MODIFIED="1561374682432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VIdeotoVocie$voiceChop.coverage" NAME="voiceChop Coverage Results" MODIFIED="1561316800936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VIdeotoVocie$getFile.coverage" NAME="getFile Coverage Results" MODIFIED="1561315375562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VIdeotoVocie$token.coverage" NAME="token Coverage Results" MODIFIED="1561301011861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/pytube/mixins.py">
@@ -340,20 +383,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/create_mixed_audio_file.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3165">
-          <caret line="217" selection-start-line="217" selection-end-line="217" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4800">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/random.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/codecs.py" />
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/pytube/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1755">
@@ -368,132 +399,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py">
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/subprocess.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/linecache.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/tokenize.py" />
+    <entry file="file://$PROJECT_DIR$/token.py" />
+    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/librosa/cache.py" />
+    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/joblib/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/joblib/memory.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pydoc.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/inspect.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/pydoc.py" />
+    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/librosa/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/librosa/core/audio.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/librosa/effects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="9880">
+          <caret line="526" selection-start-line="526" selection-end-line="526" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processer.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/site-packages/pytube/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/subprocess.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/site-packages/pytube/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        <state relative-caret-position="2223">
+          <caret line="132" column="57" selection-start-line="132" selection-start-column="57" selection-end-line="132" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/linecache.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/Lib/subprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="18164">
+          <caret line="956" selection-start-line="956" selection-end-line="956" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/tokenize.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/Lib/site-packages/pytube/mixins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="589">
+          <caret line="40" column="74" selection-start-line="40" selection-start-column="74" selection-end-line="40" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/token.py" />
-    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/librosa/cache.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/Lib/site-packages/pytube/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="1368">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/joblib/__init__.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/site-packages/pytube/contrib/playlist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-          <folding>
-            <element signature="e#3963#4030#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1905">
+          <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/joblib/memory.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/subprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="19">
+          <caret line="1583" column="13" selection-start-line="1583" selection-start-column="13" selection-end-line="1583" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pydoc.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="201">
+          <caret line="915" selection-start-line="915" selection-end-line="915" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/inspect.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/python3/Lib/site-packages/pytube/mixins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="401">
+          <caret line="40" column="74" selection-start-line="40" selection-start-column="74" selection-end-line="40" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/librosa/core/audio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="398" selection-start-line="398" selection-end-line="398" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/pytube/streams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/voiceChop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="228">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/librosa/effects.py">
+    <entry file="file://$PROJECT_DIR$/processer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7800">
-          <caret line="526" selection-start-line="526" selection-end-line="526" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/pytube/streams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3090">
-          <caret line="216" selection-start-line="216" selection-end-line="216" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/librosa/core/audio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5790">
-          <caret line="398" selection-start-line="398" selection-end-line="398" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/pydoc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/librosa/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../speech-denoiser/venc/lib/python3.7/site-packages/librosa/core/audio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/getFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="264">
+          <caret line="104" column="38" lean-forward="true" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
